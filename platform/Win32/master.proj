@@ -3,7 +3,7 @@
 
     <!-- configurable settings -->
     <PropertyGroup>
-        <VCVersion>9</VCVersion>
+        <VCVersion>141</VCVersion>
 
         <VersionZlib>1.2.5</VersionZlib>
         <VersionIconv>1.9.2</VersionIconv>
